@@ -1,0 +1,16 @@
+---
+date: 2021-01-31T13:21:19+09:00
+title: "HugoのThemeを追加"
+---
+
+Change my Hugo theme via Github
+
+GithubからHugoのテーマを”theme”レジストリにクローンして、テーマ設定を可能にする。
+
+[RStudioではじめるGitによるバージョン管理](https://qiita.com/uri/items/6b94609f156173ed43ed)
+
+[Tranquilpeakへ変更](https://github.com/kakawait/hugo-tranquilpeak-theme)
+
+[]
+
+<!--more-->

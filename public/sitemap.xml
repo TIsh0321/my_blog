@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/tags/blogdown/</loc>
+    <lastmod>2021-01-31T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2021/01/31/blogdown%E3%81%AE%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/</loc>
+    <lastmod>2021-01-31T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2021-01-31T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/category/</loc>
+    <lastmod>2021-01-31T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/github/</loc>
+    <lastmod>2021-01-31T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-01-31T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-01-31T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2021-01-31T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/subcategory/</loc>
+    <lastmod>2021-01-31T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-01-31T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2021/01/31/hugo%E3%81%AEtheme%E3%82%92%E8%BF%BD%E5%8A%A0/</loc>
+    <lastmod>2021-01-31T13:21:19+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2016/12/30/a-plain-markdown-post/</loc>
+    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cv/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2015/01/01/lorem-ipsum/</loc>
+    <lastmod>2015-01-01T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/1/01/01/my-website/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+  </url>
+  
+</urlset>
