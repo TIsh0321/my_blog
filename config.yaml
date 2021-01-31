@@ -59,3 +59,5 @@ params:
   imageGallery : true
   hierarchicalCategories : true
   syntaxHighlighter : 'highlight.js'
+social:
+  -github: "TIsh0321/my_blog"
