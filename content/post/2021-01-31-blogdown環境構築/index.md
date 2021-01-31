@@ -13,7 +13,7 @@ keywords:
 comments:       True
 showMeta:       false
 showActions:    false
-thumbnailImage: //example.com/image.jpg
+thumbnailImage: "/images/image_cover_malta.jpg"
 ---
 
 

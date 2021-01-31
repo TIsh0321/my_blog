@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: "/"
 languageCode: ja
 title: My Web Site
 theme: "hugo-tranquilpeak-theme"
@@ -12,21 +12,34 @@ ignoreFiles:
   - \.utf8\.md$
 permalinks:
   post: /:year/:month/:day/:slug/
+
 menu:
   main:
-    - name: About
+    - weight: 1
+      name: TOP
+      url: /
+      pre: "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
+    - weight: 0
+      name: About
       url: /about/
+      pre: "<i class=\"sidebar-button-icon fa fa-lg fa-user\"></i>"
     - name: CV
       url: /CV/
+      pre: "<i class=\"sidebar-button-icon fa fa-lg fa-file\"></i>"
+    - name: Class
+      url: /class/
+      pre: "<i class=\"sidebar-button-icon fa fa-lg fa-graduation-cap\"></i>"
     - name: GitHub
-      url: https://github.com/rstrudio/blogdown
+      url: https://github.com/TIsh0321/my_blog.git
+      pre: "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
     - name: Twitter
       url: https://twitter.com/Isshii20
+      pre: "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
   description: A website built through Hugo and blogdown.
-  favicon: favicon.ico
+  favicon: "/favicon.icon"
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   highlightjsLang:
     - r
@@ -38,3 +51,11 @@ params:
     height: 50
     url: logo.png
     width: 50
+  sidebarBehavior: 2
+  thumbnailImage : true
+  thumbnailImagePosition : "left"
+  autoThumbnailImage : true
+  coverImage : "images/cover.jpg"
+  imageGallery : true
+  hierarchicalCategories : true
+  syntaxHighlighter : 'highlight.js'

@@ -59,8 +59,8 @@
 
 
 
-  <meta property="og:image" content="//example.com/image.jpg">
-  <meta property="twitter:image" content="//example.com/image.jpg">
+  <meta property="og:image" content="/images/image_cover_malta.jpg">
+  <meta property="twitter:image" content="/images/image_cover_malta.jpg">
 
 
 
@@ -69,7 +69,7 @@
 
     <title>Blogdownの環境構築</title>
 
-    <link rel="icon" href="favicon.ico">
+    <link rel="icon" href="/favicon.icon">
     
 
     
@@ -94,7 +94,7 @@
 
   <body>
     <div id="blog">
-      <header id="header" data-behavior="">
+      <header id="header" data-behavior="2">
   <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
   <div class="header-title">
     <a class="header-title-link" href="/">My Web Site</a>
@@ -102,16 +102,26 @@
   
 </header>
 
-      <nav id="sidebar" data-behavior="">
+      <nav id="sidebar" data-behavior="2">
   <div class="sidebar-container">
     
     <ul class="sidebar-buttons">
       
   <li class="sidebar-button">
     
+      <a class="sidebar-button-link " href="/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">TOP</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
       <a class="sidebar-button-link " href="/about/">
     
-      
+      <i class="sidebar-button-icon fa fa-lg fa-user"></i>
       
       <span class="sidebar-button-desc">About</span>
     </a>
@@ -119,9 +129,19 @@
 
   <li class="sidebar-button">
     
+      <a class="sidebar-button-link " href="/class/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-graduation-cap"></i>
+      
+      <span class="sidebar-button-desc">Class</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
       <a class="sidebar-button-link " href="/cv/">
     
-      
+      <i class="sidebar-button-icon fa fa-lg fa-file"></i>
       
       <span class="sidebar-button-desc">CV</span>
     </a>
@@ -129,9 +149,9 @@
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://github.com/rstrudio/blogdown">
+      <a class="sidebar-button-link " href="https://github.com/TIsh0321/my_blog.git">
     
-      
+      <i class="sidebar-button-icon fa fa-lg fa-github"></i>
       
       <span class="sidebar-button-desc">GitHub</span>
     </a>
@@ -141,7 +161,7 @@
     
       <a class="sidebar-button-link " href="https://twitter.com/Isshii20">
     
-      
+      <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
       
       <span class="sidebar-button-desc">Twitter</span>
     </a>
@@ -162,7 +182,7 @@
 
       
 
-      <div id="main" data-behavior=""
+      <div id="main" data-behavior="2"
         class="
                hasCoverMetaIn
                ">
@@ -221,13 +241,13 @@ RstudioとGitを連携しながら、blogdownから環境構築。</p>
 </footer>
 
       </div>
-      <div id="bottom-bar" class="post-bottom-bar" data-behavior="">
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="2">
         <div class="post-actions-wrap">
   
 </div>
 
       </div>
-      <div id="share-options-bar" class="share-options-bar" data-behavior="">
+      <div id="share-options-bar" class="share-options-bar" data-behavior="2">
   <i id="btn-close-shareoptions" class="fa fa-close"></i>
   <ul class="share-options">
     
@@ -252,9 +272,17 @@ RstudioとGitを連携しながら、blogdownから環境構築。</p>
     
 
     
+  
+    
+      <div id="cover" style="background-image:url('/images/cover.jpg');"></div>
+    
+  
+
 
     
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
 
@@ -275,6 +303,18 @@ function updateMinWidth() {
   var w3 = getComputedStyle(sidebar).getPropertyValue("left");
   main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
 }
+</script>
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
 </script>
 
 
