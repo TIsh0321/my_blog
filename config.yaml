@@ -20,19 +20,19 @@ menu:
       url: /
       pre: "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
     - weight: 0
-      name: About
+      name: About-自己紹介
       url: /about/
       pre: "<i class=\"sidebar-button-icon fa fa-lg fa-user\"></i>"
-    - name: CV
+    - name: CV-足跡
       url: /CV/
       pre: "<i class=\"sidebar-button-icon fa fa-lg fa-file\"></i>"
-    - name: Class
+    - name: Class-講義用
       url: /class/
       pre: "<i class=\"sidebar-button-icon fa fa-lg fa-graduation-cap\"></i>"
-    - name: GitHub
+    - name: GitHub-共有用
       url: https://github.com/TIsh0321/my_blog.git
       pre: "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-    - name: Twitter
+    - name: Twitter-つぶやき
       url: https://twitter.com/Isshii20
       pre: "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
 params:
@@ -48,10 +48,10 @@ params:
   highlightjsVersion: 9.12.0
   logo:
     alt: Logo
-    height: 50
+    height: 100
     url: logo.png
-    width: 50
-  sidebarBehavior: 2
+    width: 100
+  sidebarBehavior: 1
   thumbnailImage : true
   thumbnailImagePosition : "left"
   autoThumbnailImage : true

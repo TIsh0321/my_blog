@@ -1,6 +1,15 @@
 ---
 date: "2016-12-30T21:49:57-07:00"
 title: A Plain Markdown Post
+categories:
+- Hugo
+- テーマ設定
+tags:
+- Hugo
+comments:       True
+showMeta:       True
+showActions:    True
+thumbnailImage: "/images/cover.jpg"
 ---
 
 This is a post written in plain Markdown (`*.md`) instead of R Markdown (`*.Rmd`). The major differences are:

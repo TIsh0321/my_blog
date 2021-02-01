@@ -29,9 +29,6 @@
 
 &lt;p&gt;Change my Hugo theme via Github&lt;/p&gt;
 &lt;p&gt;GithubからHugoのテーマを”theme”レジストリにクローンして、テーマ設定を可能にする。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://qiita.com/uri/items/6b94609f156173ed43ed&#34;&gt;RStudioではじめるGitによるバージョン管理&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme&#34;&gt;Tranquilpeakへ変更&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[]&lt;/p&gt;
 </description>
     </item>
     
@@ -56,6 +53,15 @@
     
     <item>
       <title>CV</title>
+      <link>/class/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/class/</guid>
+      <description>I will put CV file here.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
       <link>/cv/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
@@ -70,17 +76,6 @@
       
       <guid>/2015/01/01/lorem-ipsum/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore &lt;em&gt;magna aliqua&lt;/em&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>My Website</title>
-      <link>/1/01/01/my-website/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/my-website/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
     </item>
     
   </channel>

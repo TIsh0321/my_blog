@@ -2,8 +2,8 @@
 title: "Blogdownの環境構築"
 date: 2021-01-31T13:41:41+09:00
 categories:
-- category
-- subcategory
+- Blogdown
+- 環境構築
 tags:
 - R
 - blogdown
@@ -11,9 +11,9 @@ tags:
 keywords:
 - tech
 comments:       True
-showMeta:       false
-showActions:    false
-thumbnailImage: "/images/image_cover_malta.jpg"
+showMeta:       True
+showActions:    True
+thumbnailImage: "/images/cover.jpg"
 ---
 
 

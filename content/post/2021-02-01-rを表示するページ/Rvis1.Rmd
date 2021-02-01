@@ -1,9 +1,14 @@
 ---
 title: "Rを表示するページ"
+date: 2021-02-01T13:41:41+09:00
 author: "Tomoki Ishikawa"
-date: 2021-1-31T21:13:14-05:00
-categories: ["R"]
+categories: ["R","plot", "regression"]
 tags: ["R Markdown", "plot", "regression"]
+comments: True
+showMeta: True
+showActions: True
+thumbnailImagePosition : "left"
+thumbnailImage: "/images/pari_site.jpg"
 ---
 
 # R Markdown
