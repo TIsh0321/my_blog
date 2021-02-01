@@ -6,13 +6,49 @@
     <description>Recent content in Categories on My Web Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 31 Jan 2021 13:41:41 +0900</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Feb 2021 14:10:10 +0900</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogdown</title>
       <link>/categories/blogdown/</link>
-      <pubDate>Sun, 31 Jan 2021 13:41:41 +0900</pubDate>
+      <pubDate>Mon, 01 Feb 2021 14:10:10 +0900</pubDate>
       
       <guid>/categories/blogdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>環境設定</title>
+      <link>/categories/%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A/</link>
+      <pubDate>Mon, 01 Feb 2021 14:10:10 +0900</pubDate>
+      
+      <guid>/categories/%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plot</title>
+      <link>/categories/plot/</link>
+      <pubDate>Mon, 01 Feb 2021 13:41:41 +0900</pubDate>
+      
+      <guid>/categories/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/categories/r/</link>
+      <pubDate>Mon, 01 Feb 2021 13:41:41 +0900</pubDate>
+      
+      <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>/categories/regression/</link>
+      <pubDate>Mon, 01 Feb 2021 13:41:41 +0900</pubDate>
+      
+      <guid>/categories/regression/</guid>
       <description></description>
     </item>
     
