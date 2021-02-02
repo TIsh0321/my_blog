@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "/github.com/TIsh0321/"
 languageCode: ja
 title: My Web Site
 theme: "hugo-tranquilpeak-theme"
@@ -12,7 +12,14 @@ ignoreFiles:
   - \.utf8\.md$
 permalinks:
   post: /:year/:month/:day/:slug/
-
+author:
+  name: Tomoki Ishikawa, 石川智基
+  bio: "Ph.D(Health sciences), M.B.A., and Radiological Technologist"
+  job: "Researcher of Health sciences"
+  location: Tokyo, Japan
+  gravatarEmail: ish0321@gmail.com
+  picture: https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png
+  twitter: "@Isshii20"
 menu:
   main:
     - weight: 1
@@ -23,18 +30,23 @@ menu:
       name: About-自己紹介
       url: /about/
       pre: "<i class=\"sidebar-button-icon fa fa-lg fa-user\"></i>"
-    - name: CV-足跡
+    - name: CV-足あと
       url: /CV/
       pre: "<i class=\"sidebar-button-icon fa fa-lg fa-file\"></i>"
     - name: Class-講義用
       url: /class/
       pre: "<i class=\"sidebar-button-icon fa fa-lg fa-graduation-cap\"></i>"
+  links: 
     - name: GitHub-共有用
       url: https://github.com/TIsh0321/my_blog.git
       pre: "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
     - name: Twitter-つぶやき
       url: https://twitter.com/Isshii20
       pre: "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
+  misc: 
+    - name: RSS
+      url: ""
+      pre: "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
@@ -60,4 +72,4 @@ params:
   hierarchicalCategories : true
   syntaxHighlighter : 'highlight.js'
 social:
-  -github: "TIsh0321/my_blog"
+  github: "TIsh0321/my_blog"
