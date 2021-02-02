@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/categories/blogdown/</loc>
+    <lastmod>2021-02-01T14:10:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/blogdown/</loc>
+    <lastmod>2021-02-01T14:10:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2021-02-01T14:10:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-02-01T14:10:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-02-01T14:10:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2021/02/01/post%E3%81%AE%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E7%94%BB%E5%83%8F%E8%A8%AD%E5%AE%9A/</loc>
+    <lastmod>2021-02-01T14:10:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-02-01T14:10:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A/</loc>
+    <lastmod>2021-02-01T14:10:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A/</loc>
+    <lastmod>2021-02-01T14:10:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2021-02-01T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/plot/</loc>
+    <lastmod>2021-02-01T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2021-02-01T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2021-02-01T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2021-02-01T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/regression/</loc>
+    <lastmod>2021-02-01T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2021/02/01/r%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%83%9A%E3%83%BC%E3%82%B8/</loc>
+    <lastmod>2021-02-01T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2021/01/31/blogdown%E3%81%AE%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/</loc>
+    <lastmod>2021-01-31T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/github/</loc>
+    <lastmod>2021-01-31T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2021-01-31T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/</loc>
+    <lastmod>2021-01-31T13:41:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2021-01-31T13:21:19+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/hugo/</loc>
+    <lastmod>2021-01-31T13:21:19+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2021/01/31/hugo%E3%81%AEtheme%E3%82%92%E8%BF%BD%E5%8A%A0/</loc>
+    <lastmod>2021-01-31T13:21:19+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/%E3%83%86%E3%83%BC%E3%83%9E%E8%A8%AD%E5%AE%9A/</loc>
+    <lastmod>2021-01-31T13:21:19+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2016/12/30/a-plain-markdown-post/</loc>
+    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/class/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cv/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/exam/</loc>
+    <lastmod>2015-01-01T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/exam/</loc>
+    <lastmod>2015-01-01T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2015/01/01/lorem-ipsum/</loc>
+    <lastmod>2015-01-01T13:09:13-06:00</lastmod>
+  </url>
+  
+</urlset>
